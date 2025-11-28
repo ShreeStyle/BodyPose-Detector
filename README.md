@@ -4,7 +4,7 @@ Real-time body pose detection using ML5.js and p5.js. This project detects 17 ke
 
 ## Demo
 
-![Demo Video](demovideo.mp4)
+Watch the live demo: [View Demo Video](https://github.com/ShreeStyle/BodyPose-Detector/releases/tag/v1)
 
 ## Features
 
